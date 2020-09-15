@@ -1,4 +1,4 @@
 # commonPrometheusMetrics
 golang prometheus client for whatever metrics you want.
 
-edit.
+First draft, copied from other example.
